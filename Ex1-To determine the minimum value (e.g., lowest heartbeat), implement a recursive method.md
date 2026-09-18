@@ -53,6 +53,11 @@ public class Main {
 
 ## Output:
 
+<img width="432" height="182" alt="image" src="https://github.com/user-attachments/assets/3a518fb9-9307-4411-9405-ca5c096a901d" />
+
+
+
+
 
 
 ## Result:
